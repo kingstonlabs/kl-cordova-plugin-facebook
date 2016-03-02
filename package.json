@@ -1,9 +1,9 @@
 {
-  "name": "phonegap-facebook-plugin",
+  "name": "kl-cordova-plugin-facebook",
   "version": "0.12.0",
-  "description": "The official Facebook plugin for Apache Cordova/PhoneGap",
+  "description": "Facebook Plugin for npm. Telerik fork. Fixed conflict with PushPlugin.",
   "cordova": {
-    "id": "phonegap-facebook-plugin",
+    "id": "kl-cordova-plugin-facebook",
     "platforms": [
       "android",
       "ios",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Wizcorp/phonegap-facebook-plugin"
+    "url": "https://github.com/Telerik-Verified-Plugins/Facebook"
   },
   "keywords": [
     "cordova",
